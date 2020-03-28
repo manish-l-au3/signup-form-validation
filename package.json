@@ -1,0 +1,12 @@
+{
+  "name": "validation",
+  "version": "1.0.0",
+  "description": "simple validation",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon",
+    "start": "node server.js"
+  },
+  "author": "manish",
+  "license": "ISC"
+}
